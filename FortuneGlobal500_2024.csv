@@ -1,0 +1,501 @@
+Rank,Company,RevenueMil,RevenuePerCng,ProfitsMil,ProfitsPerCng,AssetsMil,EmployeeCount,RankCng,YearsOnList,Hqcity,HqCountry,IndustrySector
+1,Walmart,"$648,125 ",6%,"$15,511 ",32.80%,"$252,399 ","2,100,000",-,30,Bentonville,United States,Retail
+2,Amazon,"$574,785 ",11.80%,"$30,425 ",-,"$527,854 ","1,525,000",2,16,Seattle,United States,Internet Services and Retailing
+3,State Grid,"$545,947.50 ",3%,"$9,204.30 ",12.40%,"$781,126.20 ","1,361,423",-,24,Beijing,China,Energy
+4,Saudi Aramco,"$494,890.10 ",-18%,"$120,699.30 ",-24.10%,"$660,819.20 ","73,311",-2,6,Dhahran,Saudi Arabia,"Mining, Crude-Oil Production"
+5,Sinopec Group,"$429,699.70 ",-8.80%,"$9,393.40 ",-2.70%,"$382,688 ","513,434",1,26,Beijing,China,Energy
+6,China National Petroleum,"$421,713.60 ",-12.70%,"$21,294.70 ",1%,"$630,562 ","1,026,301",-1,24,Beijing,China,Petroleum Refining
+7,Apple,"$383,285 ",-2.80%,"$96,995 ",-2.80%,"$352,583 ","161,000",1,22,Cupertino,United States,Technology
+8,UnitedHealth Group,"$371,622 ",14.60%,"$22,381 ",11.20%,"$273,720 ","440,000",2,28,Minnetonka,United States,Health Care: Insurance and Managed Care
+9,Berkshire Hathaway,"$364,482 ",20.70%,"$96,223 ",-,"$1,069,978 ","396,500",5,28,Omaha,United States,Financials
+10,CVS Health,"$357,776 ",11%,"$8,344 ",101.10%,"$249,728 ","259,500",1,29,Woonsocket,United States,Health Care
+11,Volkswagen,"$348,408.10 ",18.60%,"$17,944.50 ",10.50%,"$663,063.80 ","684,025",4,30,Wolfsburg,Germany,Motor Vehicles & Parts
+12,Exxon Mobil,"$344,582 ",-16.70%,"$36,010 ",-35.40%,"$376,317 ","61,500",-5,30,Spring,United States,Petroleum Refining
+13,Shell,"$323,183 ",-16.30%,"$19,359 ",-54.20%,"$406,270 ","103,000",-4,30,London,United Kingdom,Energy
+14,China State Construction Engineering,"$320,430.50 ",4.80%,"$4,371.50 ",3.30%,"$410,143.80 ","382,894",-1,13,Beijing,China,Engineering & Construction
+15,Toyota Motor,"$312,018.20 ",13.70%,"$34,214.40 ",88.90%,"$595,915.20 ","380,793",4,30,Toyota,Japan,Motor Vehicles & Parts
+16,McKesson,"$308,951 ",11.70%,"$3,002 ",-15.70%,"$67,443 ","48,000",2,30,Irving,United States,Wholesalers: Health Care
+17,Alphabet,"$307,394 ",8.70%,"$73,795 ",23.10%,"$402,392 ","182,502",-,16,Mountain View,United States,Internet Services and Retailing
+18,Cencora,"$262,173.40 ",9.90%,"$1,745.30 ",2.70%,"$62,558.80 ","44,000",6,25,Conshohocken,United States,Wholesalers: Health Care
+19,Trafigura Group,"$244,280.20 ",-23.30%,"$7,393.20 ",5.70%,"$83,382.50 ","12,479",-7,10,Singapore,Singapore,Wholesalers
+20,Costco Wholesale,"$242,290 ",6.80%,"$6,292 ",7.70%,"$68,994 ","316,000",6,30,Issaquah,United States,General Merchandisers
+21,JPMorgan Chase,"$239,425 ",54.70%,"$49,552 ",31.50%,"$3,875,393 ","309,926",32,30,New York,United States,Commercial Banks
+22,Industrial & Commercial Bank of China,"$222,484.20 ",3.60%,"$51,417 ",-4.10%,"$6,297,314.50 ","419,252",6,26,Beijing,China,Commercial Banks
+23,TotalEnergies,"$218,945 ",-16.90%,"$21,384 ",4.20%,"$283,654 ","102,579",-3,30,Courbevoie,France,Energy
+24,Glencore,"$217,829 ",-14.90%,"$4,280 ",-75.30%,"$123,869 ","83,426",-3,14,Baar,Switzerland,"Mining, Crude-Oil Production"
+25,BP,"$213,032 ",-14.40%,"$15,239 ",-,"$280,294 ","79,400",-3,30,London,United Kingdom,Energy
+26,Microsoft,"$211,915 ",6.90%,"$72,361 ",-0.50%,"$411,976 ","221,000",4,27,Redmond,United States,Computer Software
+27,Cardinal Health,"$205,012 ",13%,$261 ,-,"$43,417 ","47,520",7,27,Dublin,United States,Wholesalers: Health Care
+28,Stellantis,"$204,908.30 ",8.50%,"$20,103.40 ",13.80%,"$223,247.20 ","258,275",3,19,Amsterdam,Netherlands,Motor Vehicles & Parts
+29,Chevron,"$200,949 ",-18.40%,"$21,369 ",-39.80%,"$261,632 ","45,600",-6,30,San Ramon,United States,Petroleum Refining
+30,China Construction Bank,"$199,826.10 ",-1.40%,"$46,990 ",-2.40%,"$5,399,535.90 ","376,871",-1,25,Beijing,China,Commercial Banks
+31,Samsung Electronics,"$198,256.70 ",-15.30%,"$11,081.70 ",-73.90%,"$351,936.80 ","267,860",-6,30,Suwon,South Korea,"Electronics, Electrical Equipment"
+32,Hon Hai Precision Industry,"$197,876 ",-11.10%,"$4,562.90 ",-4%,"$128,549.60 ","621,393",-5,20,New Taipei City,Taiwan,"Electronics, Electrical Equipment"
+33,Cigna,"$195,265 ",8.20%,"$5,164 ",-22.60%,"$152,761 ","71,413",2,29,Bloomfield,United States,Health Care: Pharmacy and Other Services
+34,Agricultural Bank of China,"$192,398.30 ",2.90%,"$38,048.70 ",-1.20%,"$5,617,654.60 ","451,003",-2,25,Beijing,China,Commercial Banks
+35,China Railway Engineering Group,"$178,562.90 ",4%,"$2,152.50 ",5.80%,"$258,817.80 ","314,149",4,10,Beijing,China,Engineering & Construction
+36,Ford Motor,"$176,191 ",11.50%,"$4,347 ",-,"$273,310 ","177,000",10,30,Dearborn,United States,Motor Vehicles & Parts
+37,Bank of China,"$172,327.60 ",9.80%,"$32,758.30 ",-3.10%,"$4,569,326.60 ","306,931",12,30,Beijing,China,Commercial Banks
+38,Bank of America,"$171,912 ",49.40%,"$26,515 ",-3.70%,"$3,180,151 ","212,985",44,30,Charlotte,United States,Commercial Banks
+39,General Motors,"$171,842 ",9.60%,"$10,127 ",1.90%,"$273,064 ","163,000",11,30,Detroit,United States,Motor Vehicles & Parts
+40,Elevance Health,"$171,340 ",9.40%,"$5,987 ",-0.60%,"$108,928 ","104,900",11,23,Indianapolis,United States,Health Care: Insurance and Managed Care
+41,BMW Group,"$168,102.60 ",12.10%,"$12,205.20 ",-35.30%,"$277,104 ","154,950",16,30,Munich,Germany,Motor Vehicles & Parts
+42,Mercedes-Benz Group,"$165,637.80 ",5%,"$15,417 ",1.10%,"$290,503.60 ","166,056",5,30,Stuttgart,Germany,Motor Vehicles & Parts
+43,China Railway Construction,"$160,847.40 ",-1.30%,"$1,701 ",-5.50%,"$234,976.90 ","336,433",-,13,Beijing,China,Engineering & Construction
+44,China Baowu Steel Group,"$157,216.30 ",-2.80%,"$2,493.80 ",-,"$191,964.10 ","258,697",-,21,Shanghai,China,Materials
+45,Citigroup,"$156,820 ",55.20%,"$9,228 ",-37.80%,"$2,411,834 ","237,925",54,30,New York,United States,Commercial Banks
+46,Centene,"$153,999 ",6.50%,"$2,702 ",124.80%,"$84,641 ","67,700",14,9,St. Louis,United States,Health Care: Insurance and Managed Care
+47,JD.com,"$153,217.40 ",-1.50%,"$3,413.80 ",121.20%,"$88,613.10 ","517,124",5,9,Beijing,China,Internet Services and Retailing
+48,Home Depot,"$152,669 ",-3%,"$15,143 ",-11.50%,"$76,530 ","463,100",-,30,Atlanta,United States,Specialty Retailers: Other
+49,Electricite de France,"$151,040.20 ",0.10%,"$10,827.90 ",-,"$402,929.10 ","171,862",6,30,Paris,France,Utilities
+50,Marathon Petroleum,"$150,307 ",-16.50%,"$9,681 ",-33.30%,"$85,987 ","18,200",-14,13,Findlay,United States,Petroleum Refining
+51,Kroger,"$150,039 ",1.20%,"$2,164 ",-3.60%,"$50,505 ","414,000",7,30,Cincinnati,United States,Food & Drug Stores
+52,Phillips 66,"$149,890 ",-14.70%,"$7,015 ",-36.40%,"$75,501 ","14,000",-15,12,Houston,United States,Petroleum Refining
+53,Ping An Insurance,"$145,759.10 ",-19.70%,"$12,100.90 ",-2.80%,"$1,631,972.90 ","288,751",-20,15,Shenzhen,China,Life and Health Insurance
+54,Sinochem Holdings,"$143,240 ",-17.60%,"($3,666)",-,"$223,940 ","203,727",-16,3,Beijing,China,Chemicals
+55,China Mobile Communications,"$142,832.40 ",2.30%,"$15,253.40 ",3.60%,"$338,346.60 ","453,394",7,24,Beijing,China,Telecommunications
+56,China National Offshore Oil,"$141,731.80 ",-14%,"$14,559.20 ",-14.30%,"$225,842.10 ","82,560",-14,18,Beijing,China,"Mining, Crude-Oil Production"
+57,Honda Motor,"$141,348.50 ",13.20%,"$7,660.60 ",59.20%,"$196,892.90 ","194,993",13,30,Tokyo,Japan,Motor Vehicles & Parts
+58,Fannie Mae,"$141,240 ",16.20%,"$17,408 ",34.70%,"$4,325,437 ","8,100",17,27,Washington,United States,Diversified Financials
+59,China Life Insurance,"$139,615.90 ",-7.80%,($841.20),-112.30%,"$954,017.30 ","176,625",-5,22,Beijing,China,Life and Health Insurance
+60,Walgreens Boots Alliance,"$139,081 ",4.80%,"($3,080)",-171%,"$96,628 ","268,500",6,30,Deerfield,United States,Food & Drug Stores
+61,Valero Energy,"$139,001 ",-18.80%,"$8,835 ",-23.40%,"$63,056 ","9,897",-21,24,San Antonio,United States,Petroleum Refining
+62,Banco Santander,"$137,244.80 ",38.30%,"$11,973.80 ",18.50%,"$1,984,826.60 ","207,206",42,30,Madrid,Spain,Commercial Banks
+63,China Communications Construction,"$136,670.70 ",-1.20%,"$1,672.30 ",33.30%,"$361,452.70 ","219,034",-,17,Beijing,China,Engineering & Construction
+64,BNP Paribas,"$136,076.20 ",51.90%,"$11,864.60 ",10.60%,"$2,862,269.70 ","182,656",63,30,Paris,France,Commercial Banks
+65,Mitsubishi,"$135,389.80 ",-15.10%,"$6,670.20 ",-23.50%,"$155,135.40 ","80,037",-20,30,Tokyo,Japan,Trading
+66,Meta Platforms,"$134,902 ",15.70%,"$39,098 ",68.50%,"$229,623 ","67,317",15,8,Menlo Park,United States,Internet Services and Retailing
+67,HSBC Holdings,"$134,901 ",53.60%,"$23,533 ",46.80%,"$3,038,677 ","220,861",63,30,London,United Kingdom,Commercial Banks
+68,Verizon Communications,"$133,974 ",-2.10%,"$11,614 ",-45.40%,"$380,255 ","105,400",-4,30,New York,United States,Telecommunications
+69,China Minmetals,"$132,019.70 ",-1.10%,$766 ,-12.60%,"$159,608.70 ","175,524",-4,18,Beijing,China,Materials
+70,Alibaba Group,"$131,337.90 ",3.60%,"$11,165.10 ",5.10%,"$244,426 ","204,891",-2,8,Hangzhou,China,Internet Services and Retailing
+71,CITIC Group,"$131,242.30 ",30.20%,"$4,124.60 ",5.70%,"$1,617,680.90 ","213,290",29,16,Beijing,China,Diversified Financials
+72,China Resources,"$126,169.50 ",3.70%,"$3,797.50 ",-18.50%,"$367,033.50 ","394,112",2,15,Hong Kong,China,Diversified
+73,Hyundai Motor,"$124,576.70 ",12.80%,"$9,158.60 ",60.50%,"$218,047.70 ","73,502",12,29,Seoul,South Korea,Motor Vehicles & Parts
+74,AT&T,"$122,428 ",1.40%,"$14,400 ",-,"$407,060 ","150,470",4,30,Dallas,United States,Telecommunications
+75,Shandong Energy Group,"$122,383.20 ",-1.40%,$829.60 ,2446.30%,"$141,176.30 ","214,409",-3,7,Jinan,China,"Mining, Crude-Oil Production"
+76,Comcast,"$121,572 ",0.10%,"$15,388 ",186.60%,"$264,811 ","186,000",1,22,Philadelphia,United States,Telecommunications
+77,Deutsche Telekom,"$121,046.20 ",0.80%,"$19,229.90 ",128.50%,"$320,637.30 ","199,652",2,30,Bonn,Germany,Telecommunications
+78,China Southern Power Grid,"$118,813.50 ",4.50%,"$2,342.20 ",54.60%,"$173,039.20 ","268,471",5,20,Guangzhou,China,Utilities
+79,Uniper,"$116,662.50 ",-59.50%,"$6,819.30 ",-,"$60,703.60 ","6,863",-63,6,Düsseldorf,Germany,Utilities
+80,Wells Fargo,"$115,340 ",39.20%,"$19,142 ",45.20%,"$1,932,468 ","226,000",64,27,San Francisco,United States,Commercial Banks
+81,Hengli Group,"$114,664.50 ",26.10%,$980.80 ,175.20%,"$52,686.30 ","173,250",42,8,Suzhou,China,Industrials
+82,Allianz,"$113,517.70 ",-12%,"$9,233.30 ",30.30%,"$1,085,900.20 ","157,883",-15,30,Munich,Germany,Insurance: Property and Casualty (Stock)
+83,China Post Group,"$112,778.50 ",2.30%,"$5,884.50 ",20.20%,"$2,310,571.90 ","728,776",3,14,Beijing,China,Transportation
+84,China Energy Investment,"$112,048.70 ",-7.80%,"$6,339.10 ",11.20%,"$294,883.20 ","309,037",-8,15,Beijing,China,Energy
+85,Xiamen C&D,"$110,665.60 ",-12.20%,"$1,057.60 ",132.80%,"$125,003.20 ","62,740",-16,8,Xiamen,China,Trading
+86,Reliance Industries,"$108,877.90 ",-0.60%,"$8,412.50 ",1.30%,"$210,698.90 ","347,000",2,21,Mumbai,India,Petroleum Refining
+87,Goldman Sachs Group,"$108,418 ",57.80%,"$8,516 ",-24.40%,"$1,641,594 ","45,300",98,25,New York,United States,Commercial Banks
+88,Freddie Mac,"$108,050 ",24.60%,"$10,538 ",13%,"$3,280,976 ","8,020",45,28,McLean,United States,Diversified Financials
+89,Rosneft Oil,"$107,543.10 ",-,"$14,870.40 ",-,"$209,569.90 ","323,900",-,18,Moscow,Russia,"Mining, Crude-Oil Production"
+90,Target,"$107,412 ",-1.60%,"$4,138 ",48.90%,"$55,356 ","415,000",-,30,Minneapolis,United States,General Merchandisers
+91,Equinor,"$107,174 ",-28.90%,"$11,885 ",-58.70%,"$143,580 ","23,449",-35,30,Stavanger,Norway,"Mining, Crude-Oil Production"
+92,Humana,"$106,374 ",14.50%,"$2,489 ",-11.30%,"$47,065 ","67,600",24,26,Louisville,United States,Health Care: Insurance and Managed Care
+93,SAIC Motor,"$105,195.70 ",-4.90%,"$1,992.60 ",-16.80%,"$141,825.70 ","149,505",-9,13,Shanghai,China,Motor Vehicles & Parts
+94,State Farm Insurance,"$104,198.60 ",16.70%,"($6,272.30)",-,"$339,484.70 ","65,054",34,30,Bloomington,United States,Insurance: Property and Casualty (Mutual)
+95,Life Insurance Corp. of India,"$103,547.60 ",5.10%,"$4,944 ",10.30%,"$637,867 ","98,463",12,3,Mumbai,India,Life and Health Insurance
+96,Nestle,"$103,505.20 ",4.60%,"$12,475.40 ",28.50%,"$150,422 ","270,000",10,30,Vevey,Switzerland,"Food, Beverages & Tobacco"
+97,Enel,"$103,311.40 ",-30.10%,"$3,716.70 ",110.10%,"$215,621.80 ","61,055",-38,30,Rome,Italy,Utilities
+98,ENI,"$102,501.70 ",-27.10%,"$5,157.70 ",-64.70%,"$157,506.10 ","33,142",-37,30,Rome,Italy,Energy
+99,Petrobras,"$102,409 ",-17.70%,"$24,884 ",-32.10%,"$217,067 ","46,730",-28,30,Rio de Janeiro,Brazil,"Mining, Crude-Oil Production"
+100,SK,"$101,968.80 ",-3.80%,($594.80),-169.90%,"$159,770.80 ","114,950",-8,9,Seoul,South Korea,Diversified
+101,E.ON,"$101,280.10 ",-16.70%,$558.90 ,-71%,"$125,365.60 ","72,242",-28,30,Essen,Germany,Utilities
+102,Gazprom,"$100,252.50 ",-40.30%,"($7,383.40)",-141.90%,"$320,303.30 ","492,200",-61,28,St. Petersburg,Russia,"Mining, Crude-Oil Production"
+103,Huawei Investment & Holding,"$99,470.30 ",4.20%,"$12,274.40 ",132.40%,"$178,026.60 ","207,000",8,15,Shenzhen,China,Telecommunications
+104,Societe Generale,"$99,163.40 ",56.40%,"$2,695.10 ",27%,"$1,716,418.20 ","124,089",104,28,Paris,France,Commercial Banks
+105,Bosch Group,"$99,020.70 ",6.70%,"$2,271.30 ",66.10%,"$119,648.80 ","429,416",13,30,Gerlingen,Germany,Motor Vehicles & Parts
+106,COFCO,"$97,765.10 ",-11.30%,"$1,270.30 ",-28.10%,"$102,941 ","111,630",-19,30,Beijing,China,Food Production
+107,Itochu,"$97,074.10 ",-5.80%,"$5,547.50 ",-6.20%,"$95,818.70 ","136,334",-11,30,Tokyo,Japan,Trading
+108,PowerChina,"$97,034.90 ",-2%,$775.90 ,25%,"$198,668.80 ","184,567",-3,13,Beijing,China,Engineering & Construction
+109,Pemex,"$96,978.80 ",-18.20%,$457.10 ,-90.90%,"$136,067.60 ","128,616",-29,30,Mexico City,Mexico,"Mining, Crude-Oil Production"
+110,Tesla,"$96,773 ",18.80%,"$14,997 ",19.40%,"$106,618 ","140,473",42,4,Austin,United States,Motor Vehicles & Parts
+111,Morgan Stanley,"$96,194 ",45.90%,"$9,087 ",-17.60%,"$1,193,693 ","80,006",89,27,New York,United States,Commercial Banks
+112,Sinopharm,"$96,072.20 ",2.10%,"$1,149.50 ",4.40%,"$82,842.70 ","202,426",1,12,Shanghai,China,Wholesalers: Health Care
+113,Brookfield,"$95,924 ",3.40%,"$1,130 ",-45%,"$490,095 ","240,000",4,8,Toronto,Canada,Financials
+114,Royal Ahold Delhaize,"$95,834.80 ",4.80%,"$2,025.90 ",-24.30%,"$52,817.50 ","232,000",7,30,Zaandam,Netherlands,Food & Drug Stores
+115,Johnson & Johnson,"$95,195 ",0.30%,"$35,153 ",95.90%,"$167,558 ","131,900",-3,24,New Brunswick,United States,Pharmaceuticals
+116,Indian Oil,"$94,273 ",-10.50%,"$5,042.30 ",313.50%,"$57,878.10 ","31,942",-22,30,New Delhi,India,Petroleum Refining
+117,Archer Daniels Midland,"$93,935 ",-7.50%,"$3,483 ",-19.80%,"$54,631 ","41,008",-19,30,Chicago,United States,Food Production
+118,Credit Agricole,"$93,358.10 ",8%,"$6,862.60 ",20%,"$2,418,155.50 ","75,125",16,30,Montrouge,France,Commercial Banks
+119,Christian Dior,"$93,136.50 ",11.80%,"$6,815 ",11.80%,"$155,592 ","197,141",24,24,Paris,France,Apparel
+120,Nippon Telegraph and Telephone,"$92,539.70 ",-4.70%,"$8,853.10 ",-1.20%,"$195,769.20 ","338,467",-11,30,Tokyo,Japan,Telecommunications
+121,Mitsui,"$92,196.40 ",-12.80%,"$7,359.70 ",-11.90%,"$111,754.40 ","53,602",-28,30,Tokyo,Japan,Trading
+122,Carrefour,"$91,790.60 ",1.90%,"$1,793.50 ",26.50%,"$62,040 ","305,333",3,30,Massy,France,Food & Drug Stores
+123,PepsiCo,"$91,471 ",5.90%,"$9,074 ",1.80%,"$100,495 ","318,000",12,30,Purchase,United States,"Food, Beverages & Tobacco"
+124,United Parcel Service,"$90,958 ",-9.40%,"$6,708 ",-41.90%,"$70,857 ","382,550",-23,30,Atlanta,United States,"Mail, Package, and Freight Delivery"
+125,PTT,"$90,418.70 ",-6%,"$3,221.10 ",23.70%,"$100,741.30 ","30,772",-15,21,Bangkok,Thailand,Petroleum Refining
+126,AXA,"$90,405.80 ",-17.10%,"$7,771.70 ",10.70%,"$711,783.70 ","94,705",-35,30,Paris,France,"Insurance: Life, Health (stock)"
+127,FedEx,"$90,155 ",-3.60%,"$3,972 ",3.80%,"$87,143 ","423,228",-13,30,Memphis,United States,"Mail, Package, and Freight Delivery"
+128,Sony,"$90,091.80 ",5.70%,"$6,715.50 ",-3%,"$225,548.80 ","113,000",12,30,Tokyo,Japan,"Electronics, Electrical Equipment"
+129,China FAW Group,"$89,485 ",2.10%,"$2,864.20 ",-25.50%,"$94,499.60 ","119,658",2,20,Changchun,China,Motor Vehicles & Parts
+130,Engie,"$89,257.70 ",-18.20%,"$2,387 ",950.70%,"$214,976.80 ","97,297",-41,29,Courbevoie,France,Utilities
+131,Walt Disney,"$88,898 ",7.50%,"$2,354 ",-25.20%,"$205,579 ","199,125",14,30,Burbank,United States,Media
+132,Orlen,"$88,717.60 ",42.30%,"$4,921.80 ",-34.60%,"$67,205.50 ","66,554",84,16,P?ock,Poland,Petroleum Refining
+133,Dell Technologies,"$88,425 ",-13.60%,"$3,211 ",31.50%,"$82,089 ","120,000",-36,24,Round Rock,United States,"Computers, Office Equipment"
+134,DHL Group,"$88,385.30 ",-11%,"$3,975.10 ",-29.50%,"$73,795 ","551,233",-31,30,Bonn,Germany,Transportation
+135,China Telecommunications,"$87,961.50 ",0.90%,"$2,150.80 ",4.40%,"$151,916.70 ","391,691",-3,25,Beijing,China,Telecommunications
+136,Nissan Motor,"$87,773.50 ",12.10%,"$2,952 ",80.10%,"$131,299.80 ","141,855",24,30,Yokohama,Japan,Motor Vehicles & Parts
+137,Royal Bank of Canada,"$87,498.70 ",68.10%,"$11,019 ",-10.20%,"$1,444,726.90 ","91,398",133,30,Toronto,Canada,Commercial Banks
+138,Zhejiang Rongsheng Holding Group,"$86,535.60 ",0.40%,$74.60 ,-56.10%,"$57,831 ","23,373",-2,4,Hangzhou,China,Chemicals
+139,Lowe's,"$86,377 ",-11%,"$7,726 ",20%,"$41,795 ","226,000",-31,27,Mooresville,United States,Specialty Retailers: Other
+140,Tesco,"$86,231.30 ",8.20%,"$1,486.90 ",64.70%,"$59,497.90 ","225,659",16,30,Welwyn Garden City,United Kingdom,Food & Drug Stores
+141,Tencent Holdings,"$86,028.30 ",4.40%,"$16,275.20 ",-41.80%,"$222,216.20 ","105,417",6,8,Shenzhen,China,Internet Services and Retailing
+142,Xiamen ITG Holding Group,"$85,818.80 ",-16.80%,$178.90 ,-38.20%,"$50,244.40 ","34,289",-47,8,Xiamen,China,Trading
+143,BYD,"$85,082 ",35%,"$4,243.50 ",71.70%,"$95,740.60 ","703,504",69,3,Shenzhen,China,Motor Vehicles & Parts
+144,Nippon Life Insurance,"$83,090 ",16.70%,"$2,854 ",226.80%,"$645,391.80 ","85,740",37,30,Osaka,Japan,Life and Health Insurance
+145,Siemens,"$82,931.90 ",6.50%,"$8,476.70 ",110.50%,"$153,510.10 ","320,000",17,30,Munich,Germany,Industrials
+146,Japan Post Holdings,"$82,905.50 ",0.80%,"$1,859.10 ",-41.60%,"$1,975,196.10 ","221,387",2,28,Tokyo,Japan,Financials
+147,Aviation Industry Corp. of China,"$82,654.10 ",1.20%,"$1,644.10 ",7.60%,"$187,461.30 ","384,000",3,16,Beijing,China,Aerospace & Defense
+148,Mitsubishi UFJ Financial Group,"$82,270.30 ",20%,"$10,314.80 ",25.10%,"$2,669,641.20 ","145,412",39,23,Tokyo,Japan,Commercial Banks
+149,Procter & Gamble,"$82,006 ",2.30%,"$14,653 ",-0.60%,"$120,829 ","107,000",5,30,Cincinnati,United States,Household Products
+150,Wuchan Zhongda Group,"$81,952.40 ",-4.40%,$510.90 ,-12.10%,"$23,406.50 ","26,354",-12,14,Hangzhou,China,Trading
+151,Seven & I Holdings,"$80,124.60 ",-9%,"$1,568.90 ",-25.10%,"$70,788.70 ","117,540",-22,19,Tokyo,Japan,Food & Drug Stores
+152,Albertsons,"$79,237.70 ",2.10%,"$1,296 ",-14.40%,"$26,221.10 ","196,650",12,20,Boise,United States,Food & Drug Stores
+153,ENEOS Holdings,"$79,020.50 ",-13.60%,"$1,993.50 ",87.70%,"$67,031.80 ","50,269",-31,30,Tokyo,Japan,Petroleum Refining
+154,Bank of Communications,"$78,757.10 ",0.70%,"$13,098.60 ",-4.40%,"$1,980,962 ","94,275",7,16,Shanghai,China,Commercial Banks
+155,Energy Transfer,"$78,586 ",-12.60%,"$3,935 ",-17.30%,"$113,698 ","13,786",-29,11,Dallas,United States,Utilities
+156,U.S. Postal Service,"$78,383 ",-0.30%,"($6,478)",-111.60%,"$45,289 ","582,781",3,30,Washington,United States,Transportation
+157,Jiangxi Copper,"$78,243.20 ",4.40%,$371.20 ,-20%,"$31,154 ","32,746",14,12,Nanchang,China,"Mining, Crude-Oil Production"
+158,People's Insurance Co. of China,"$78,181.70 ",-14.60%,"$3,153.20 ",-13.30%,"$219,318.90 ","175,881",-38,15,Beijing,China,Insurance: Property and Casualty (Stock)
+159,Boeing,"$77,794 ",16.80%,"($2,222)",-,"$137,012 ","171,000",38,30,Arlington,United States,Aerospace & Defense
+160,China North Industries Group,"$76,506.90 ",-7.50%,"$1,933 ",8.10%,"$78,674.50 ","216,528",-14,15,Beijing,China,Aerospace & Defense
+161,Pacific Construction Group,"$76,433 ",-3.80%,"$5,035.30 ",-3%,"$59,040.10 ","293,125",-4,11,Nanjing,China,Engineering & Construction
+162,Kia,"$76,419.40 ",14%,"$6,720.20 ",60.40%,"$62,240.70 ","52,871",34,13,Seoul,South Korea,Motor Vehicles & Parts
+163,Sysco,"$76,324.70 ",11.20%,"$1,770.10 ",30.30%,"$22,821.20 ","71,750",23,30,Houston,United States,Wholesalers: Food
+164,Dai-ichi Life Holdings,"$76,304.80 ",8.50%,"$2,219.40 ",56.20%,"$446,636.10 ","59,495",18,30,Tokyo,Japan,Life and Health Insurance
+165,Pertamina,"$75,787.80 ",-10.70%,"$4,441.40 ",16.70%,"$91,123.60 ","40,415",-24,11,Jakarta,Indonesia,Petroleum Refining
+166,Vinci,"$75,550.90 ",14.90%,"$5,083.10 ",13.50%,"$130,945.40 ","279,426",36,24,Rueil-Malmaison,France,Engineering & Construction
+167,Petronas,"$75,409.60 ",-11.70%,"$16,320.10 ",-22.30%,"$168,475.20 ","54,105",-28,28,Kuala Lumpur,Malaysia,"Mining, Crude-Oil Production"
+168,Toronto-Dominion Bank,"$75,063.30 ",54.10%,"$7,995.60 ",-40.90%,"$1,410,162.90 ","103,257",126,25,Toronto,Canada,Commercial Banks
+169,Lukoil,"$75,012.80 ",-,"$13,551.90 ",-,"$95,935.40 ","107,596",-,24,Moscow,Russia,"Mining, Crude-Oil Production"
+170,Shaanxi Coal & Chemical Industry,"$74,776.70 ",-1.40%,"$1,113.70 ",-19.70%,"$100,857.70 ","140,142",-1,10,Xi'an,China,"Mining, Crude-Oil Production"
+171,Shenghong Holding Group,"$74,700.80 ",22%,$548.50 ,28.20%,"$31,761.60 ","56,863",51,5,Suzhou,China,Industrials
+172,BASF,"$74,487.20 ",-18.90%,$243.20 ,-,"$85,481.60 ","111,991",-53,30,Ludwigshafen,Germany,Chemicals
+173,China Poly Group,"$73,998.50 ",9.30%,$988.20 ,-23.30%,"$254,160.50 ","102,834",18,10,Beijing,China,Diversified Financials
+174,Groupe BPCE,"$73,774.70 ",54.60%,"$3,031.30 ",-27.10%,"$1,705,477.10 ","97,835",126,15,Paris,France,Commercial Banks
+175,Shandong Weiqiao Pioneering Group,"$73,484.50 ",-1.90%,"$1,192.30 ",28%,"$39,326 ","97,281",-3,13,Binzhou,China,Materials
+176,JBS,"$72,863.20 ",0.30%,($212.50),-107.10%,"$42,483.10 ","272,565",1,15,São Paulo,Brazil,Food Production
+177,Alimentation Couche-Tard,"$71,856.70 ",14.40%,"$3,090.90 ",15.20%,"$29,049.20 ","128,000",37,11,Laval,Canada,Food & Drug Stores
+178,State Bank of India,"$71,844 ",21.90%,"$8,106 ",17%,"$807,979.10 ","232,296",57,19,Mumbai,India,Commercial Banks
+179,China Merchants Bank,"$71,514.60 ",-1.10%,"$20,708.70 ",0.90%,"$1,553,788.90 ","116,529",-,13,Shenzhen,China,Commercial Banks
+180,Oil & Natural Gas,"$71,466.10 ",-9.20%,"$5,947.60 ",34.80%,"$85,215.30 ","36,549",-22,18,New Delhi,India,"Mining, Crude-Oil Production"
+181,Guangzhou Automobile Industry Group,"$71,386.10 ",-7.70%,$345.40 ,-44.60%,"$59,258.70 ","110,847",-16,12,Guangzhou,China,Motor Vehicles & Parts
+182,UBS Group,"$71,245 ",65.90%,"$27,849 ",265%,"$1,717,246 ","112,842",165,30,Zurich,Switzerland,Commercial Banks
+183,Airbus,"$70,751 ",14.50%,"$4,096.10 ",-8.30%,"$131,291.10 ","147,893",36,30,Leiden,Netherlands,Aerospace & Defense
+184,Toyota Tsusho,"$70,498.40 ",-3.10%,"$2,293.30 ",9.20%,"$46,686.90 ","69,517",-8,16,Nagoya,Japan,Trading
+185,Zhejiang Geely Holding Group,"$70,356.80 ",16.50%,$812.60 ,-14%,"$94,120.30 ","143,994",40,13,Hangzhou,China,Motor Vehicles & Parts
+186,Taiwan Semiconductor Manufacturing,"$69,415.80 ",-8.70%,"$27,350.40 ",-18%,"$180,507.60 ","76,478",-18,10,Hsinchu,Taiwan,Semiconductors and Other Electronic Components
+187,XMXYG,"$69,286.90 ",-17.20%,$14.50 ,-95.20%,"$46,717 ","33,214",-45,7,Xiamen,China,Trading
+188,RTX,"$68,920 ",2.80%,"$3,195 ",-38.50%,"$161,869 ","185,000",7,30,Waltham,United States,Aerospace & Defense
+189,Itau Unibanco Holding,"$68,455 ",19.50%,"$6,630.10 ",15.20%,"$524,123.60 ","95,702",18,11,São Paulo,Brazil,Commercial Banks
+190,ArcelorMittal,"$68,275 ",-14.50%,$919 ,-90.10%,"$93,917 ","126,756",-35,20,Luxembourg City,Luxembourg,Materials
+191,General Electric,"$67,954 ",-11.20%,"$9,481 ",4113.80%,"$163,045 ","125,000",-24,30,Fairfield,United States,Diversified Financials
+192,Beijing Automotive Group,"$67,852.20 ",0.90%,$328.10 ,10.80%,"$65,757 ","90,000",1,12,Beijing,China,Motor Vehicles & Parts
+193,Lockheed Martin,"$67,571 ",2.40%,"$6,920 ",20.70%,"$52,456 ","122,000",6,30,Bethesda,United States,Aerospace & Defense
+194,Koc Holding,"$67,482.70 ",23.90%,"$3,037.60 ",-28%,"$96,811.70 ","119,306",65,23,Istanbul,Turkey,Diversified
+195,American Express,"$67,364 ",21.10%,"$8,374 ",11.50%,"$261,108 ","74,600",58,30,New York,United States,Commercial Banks
+196,Hitachi,"$67,313.80 ",-16.30%,"$4,081.50 ",-14.90%,"$80,817.90 ","268,655",-43,30,Tokyo,Japan,"Electronics, Electrical Equipment"
+197,Roche Group,"$67,269.80 ",-3.30%,"$12,797.10 ",-1.70%,"$107,533.60 ","103,605",-13,30,Basel,Switzerland,Pharmaceuticals
+198,Wilmar International,"$67,155.30 ",-8.50%,"$1,524.80 ",-36.50%,"$61,808.70 ","114,123",-24,16,Singapore,Singapore,Food Production
+199,Caterpillar,"$67,060 ",12.80%,"$10,335 ",54.10%,"$87,476 ","113,200",31,30,Deerfield,United States,Construction and Farm Machinery
+200,Banco Bilbao Vizcaya Argentaria,"$66,978.10 ",46.40%,"$8,669 ",28.40%,"$856,591.60 ","121,486",118,30,Madrid,Spain,Commercial Banks
+201,Korea Electric Power,"$66,977.20 ",22.60%,"($3,692.40)",-,"$185,048.10 ","48,696",57,30,Naju,South Korea,Utilities
+202,MetLife,"$66,905 ",-4.30%,"$1,578 ",-37.90%,"$687,584 ","45,000",-19,30,New York,United States,"Insurance: Life, Health (stock)"
+203,AEON,"$66,727 ",-1.90%,$312.20 ,95.80%,"$86,485.80 ","381,084",-14,30,Chiba,Japan,Specialty Retailers: Other
+204,Lloyds Banking Group,"$66,697.60 ",399.60%,"$6,785.70 ",0.80%,"$1,123,442.50 ","62,569",-,29,London,United Kingdom,Commercial Banks
+205,Deutsche Bank,"$65,978.10 ",56%,"$6,845.30 ",20.10%,"$1,454,899.50 ","90,130",149,30,Frankfurt,Germany,Commercial Banks
+206,China Vanke,"$65,789.50 ",-12.20%,"$1,718.10 ",-48.90%,"$212,019.50 ","131,097",-33,9,Shenzhen,China,Real Estate
+207,HCA Healthcare,"$64,968 ",7.90%,"$5,242 ",-7.10%,"$56,211 ","265,000",19,30,Nashville,United States,Health Care: Medical Facilities
+208,Sumitomo Mitsui Financial Group,"$64,718.30 ",42.60%,"$6,662.70 ",11.90%,"$1,952,365.40 ","120,373",113,30,Tokyo,Japan,Commercial Banks
+209,LG Electronics,"$64,490.50 ",-0.70%,$545.80 ,-41.10%,"$46,502.90 ","74,000",-5,24,Seoul,South Korea,"Electronics, Electrical Equipment"
+210,Unilever,"$64,435.50 ",2%,"$7,012.80 ",-12.80%,"$83,130.10 ","128,377",-,30,London,United Kingdom,Household Products
+211,Accenture,"$64,111.80 ",4.10%,"$6,871.60 ",-0.10%,"$51,245.30 ","732,819",9,23,Dublin,Ireland,Information Technology Services
+212,Barclays,"$63,800.60 ",41.70%,"$6,535.90 ",-10.60%,"$1,883,108.60 ","92,400",113,30,London,United Kingdom,Commercial Banks
+213,Jinneng Holding Group,"$63,639.80 ",-18.20%,$993.60 ,177%,"$159,091.10 ","439,051",-50,12,Datong,China,"Mining, Crude-Oil Production"
+214,Aluminum Corp. of China,"$63,595.40 ",-17.40%,$876.50 ,-48.40%,"$86,868 ","124,995",-48,17,Beijing,China,Materials
+215,Munich Re Group,"$63,353.30 ",-16.40%,"$4,979.40 ",38%,"$302,400 ","42,812",-45,30,Munich,Germany,Insurance: Property and Casualty (Stock)
+216,Sberbank,"$63,329.90 ",13.30%,"$17,743.50 ",348.20%,"$583,489.40 ","210,753",34,17,Moscow,Russia,Commercial Banks
+217,Banco do Brasil,"$63,322.20 ",14.50%,"$5,980.40 ",11.70%,"$443,906.40 ","86,220",34,30,Brasília,Brazil,Commercial Banks
+218,The Progressive Corporation,"$62,108.50 ",25.20%,"$3,902.40 ",440.90%,"$88,690.80 ","61,432",69,11,Mayfield Village,United States,Insurance: Property and Casualty (Stock)
+219,IBM,"$61,860 ",2.20%,"$7,502 ",357.70%,"$135,241 ","296,600",5,30,Armonk,United States,Information Technology Services
+220,Nippon Steel Corporation,"$61,359.10 ",4.10%,"$3,801.20 ",-25.90%,"$70,854.60 ","121,236",16,30,Tokyo,Japan,Materials
+221,Deere,"$61,251 ",16.50%,"$10,166 ",42.60%,"$104,087 ","82,956",47,30,Moline,United States,Construction and Farm Machinery
+222,Nvidia,"$60,922 ",125.90%,"$29,760 ",581.30%,"$65,728 ","29,600",-,1,Santa Clara,United States,Semiconductors and Other Electronic Components
+223,StoneX Group,"$60,856.10 ",-7.80%,$238.50 ,15.20%,"$21,938.70 ","4,137",-25,14,New York,United States,Financials
+224,Zurich Insurance Group,"$60,645 ",45.30%,"$4,351 ",-5.50%,"$361,382 ","59,593",134,30,Zurich,Switzerland,Insurance: Property and Casualty (Stock)
+225,Bouygues,"$60,599.90 ",29.80%,"$1,124.30 ",9.90%,"$67,093 ","201,498",84,30,Paris,France,Engineering & Construction
+226,Mizuho Financial Group,"$60,503.60 ",41.70%,"$4,698 ",14.50%,"$1,842,826 ","52,307",124,24,Tokyo,Japan,Commercial Banks
+227,Daimler Truck Holding,"$60,420.40 ",12.80%,"$4,081 ",45.60%,"$78,652.50 ","102,946",37,2,Leinfelden-Echterdingen,Germany,Motor Vehicles & Parts
+228,ING Group,"$60,401 ",25.70%,"$4,475.60 ",-64.90%,"$1,082,724.80 ","59,434",69,30,Amsterdam,Netherlands,Commercial Banks
+229,Merck,"$60,115 ",1.40%,$365 ,-97.50%,"$106,675 ","71,000",2,30,Rahway,United States,Pharmaceuticals
+230,Bunge,"$59,540 ",-11.40%,"$2,243 ",39.30%,"$25,372 ","23,000",-36,22,St. Louis,United States,Food Production
+231,Anheuser-Busch InBev,"$59,380 ",2.80%,"$5,341 ",-10.50%,"$219,340 ","154,540",10,19,Leuven,Belgium,"Food, Beverages & Tobacco"
+232,Industrial Bank,"$59,152.30 ",-3%,"$10,893.30 ",-19.80%,"$1,431,193.60 ","66,569",-9,12,Fuzhou,China,Commercial Banks
+233,POSCO Holdings,"$58,999.20 ",-10.40%,"$1,300.30 ",-46.80%,"$78,342.40 ","44,501",-32,30,Pohang,South Korea,Materials
+234,Panasonic Holdings,"$58,787.40 ",-5%,"$3,072 ",56.60%,"$62,235.10 ","228,420",-16,30,Kadoma,Japan,"Electronics, Electrical Equipment"
+235,ConocoPhillips,"$58,574 ",-28.70%,"$10,957 ",-41.30%,"$95,924 ","9,900",-86,29,Houston,United States,"Mining, Crude-Oil Production"
+236,Pfizer,"$58,496 ",-41.70%,"$2,119 ",-93.30%,"$226,501 ","88,000",-134,30,New York,United States,Pharmaceuticals
+237,Delta Air Lines,"$58,048 ",14.80%,"$4,609 ",249.70%,"$73,644 ","103,000",43,29,Atlanta,United States,Transportation
+238,China Huaneng Group,"$57,890.80 ",-8.50%,"$1,632.10 ",45%,"$219,905.80 ","124,623",-29,16,Beijing,China,Utilities
+239,China Energy Engineering Group,"$57,708.10 ",5.10%,$600 ,10.20%,"$112,892.80 ","119,182",17,11,Beijing,China,Engineering & Construction
+240,Dongfeng Motor,"$57,595.90 ",-15.80%,($391.60),-132.30%,"$71,051.60 ","122,658",-52,15,Wuhan,China,Motor Vehicles & Parts
+241,TD Synnex,"$57,555.40 ",-7.70%,$626.90 ,-3.80%,"$29,412.80 ","28,000",-26,4,Clearwater,United States,Wholesalers: Electronics and Office Equipment
+242,Publix Super Markets,"$57,534 ",4.70%,"$4,349 ",49%,"$34,384 ","253,000",13,30,Lakeland,United States,Food & Drug Stores
+243,Zhejiang Hengyi Group,"$57,468 ",0.20%,$23.50 ,-,"$18,826.80 ","22,417",1,4,Hangzhou,China,Chemicals
+244,Allstate,"$57,094 ",11.10%,($188),-,"$103,362 ","53,200",32,29,Northbrook,United States,Insurance: Property and Casualty (Stock)
+245,Assicurazioni Generali,"$57,022.60 ",-33.50%,"$4,050.70 ",32.30%,"$561,752.80 ","81,879",-108,30,Trieste,Italy,Life and Health Insurance
+246,Cisco,"$56,998 ",10.60%,"$12,613 ",6.80%,"$101,852 ","84,900",28,25,San Jose,United States,"Computers, Office Equipment"
+247,Repsol,"$56,980.50 ",-21.40%,"$3,424.80 ",-23.40%,"$68,072.70 ","23,943",-69,30,Madrid,Spain,Petroleum Refining
+248,Lenovo Group,"$56,863.80 ",-8.20%,"$1,010.50 ",-37.20%,"$38,751 ","69,500",-31,15,Hong Kong,China,"Computers, Office Equipment"
+249,HBIS Group,"$56,728.30 ",-4.80%,$23.70 ,-52.20%,"$76,868.20 ","97,802",-20,16,Shijiazhuang,China,Materials
+250,Contemporary Amperex Technology,"$56,632.80 ",15.90%,"$6,232.50 ",36.40%,"$101,040.90 ","116,055",42,2,Ningde,China,"Electronics, Electrical Equipment"
+251,Renault,"$56,621.60 ",13.40%,"$2,376.20 ",-,"$134,651 ","105,497",35,30,Boulogne-Billancourt,France,Motor Vehicles & Parts
+252,Banco Bradesco,"$56,490.50 ",9.50%,"$2,854.20 ",-29.80%,"$397,255.50 ","79,583",21,28,Osasco,Brazil,Commercial Banks
+253,China Electronics Technology Group,"$56,083.80 ",0.40%,"$2,563 ",-3.80%,"$92,803.80 ","241,097",-1,9,Beijing,China,"Electronics, Electrical Equipment"
+254,Nationwide,"$54,609.40 ",6.10%,($45.20),-104.60%,"$290,615 ","24,118",21,30,Columbus,United States,Insurance: Property and Casualty (Mutual)
+255,Charter Communications,"$54,607 ",1.10%,"$4,557 ",-9.90%,"$147,193 ","101,100",6,8,Stamford,United States,Telecommunications
+256,State Power Investment,"$54,484.60 ",0.90%,"$1,615.90 ",117.30%,"$247,045.10 ","127,514",6,13,Beijing,China,Utilities
+257,Edeka Zentrale,"$54,454.60 ",10.10%,$461.70 ,2.70%,"$11,957.20 ","410,700",31,26,Hamburg,Germany,Food & Drug Stores
+258,Bharat Petroleum,"$54,413.10 ",-8%,"$3,245.40 ",1122.90%,"$24,287.90 ","8,511",-25,21,Mumbai,India,Petroleum Refining
+259,AbbVie,"$54,318 ",-6.40%,"$4,863 ",-58.90%,"$134,711 ","50,000",-19,9,North Chicago,United States,Pharmaceuticals
+260,New York Life Insurance,"$54,317.20 ",-7.10%,$804.60 ,-,"$408,904.90 ","15,384",-22,30,New York,United States,Life and Health Insurance
+261,Intel,"$54,228 ",-14%,"$1,689 ",-78.90%,"$191,572 ","124,800",-50,30,Santa Clara,United States,Semiconductors and Other Electronic Components
+262,TJX,"$54,217 ",8.60%,"$4,474 ",27.90%,"$29,747 ","349,000",23,23,Framingham,United States,Specialty Retailers: Other
+263,Novartis,"$54,088 ",4.40%,"$14,850 ",113.50%,"$99,945 ","76,057",8,30,Basel,Switzerland,Pharmaceuticals
+264,Rio Tinto Group,"$54,041 ",-2.70%,"$10,058 ",-19%,"$103,549 ","57,174",-10,19,London,United Kingdom,"Mining, Crude-Oil Production"
+265,Tsingshan Holding Group,"$53,980 ",-1.30%,"$1,554.20 ",6.70%,"$20,646.70 ","107,805",-8,6,Wenzhou,China,Materials
+266,Prudential Financial,"$53,979 ",-10.10%,"$2,488 ",-,"$721,123 ","40,366",-39,30,Newark,United States,Life and Health Insurance
+267,COSCO Shipping,"$53,929.60 ",-42.10%,"$3,584.40 ",-42.50%,"$151,544.50 ","106,221",-152,17,Shanghai,China,Transportation
+268,BHP Group,"$53,817 ",-24.70%,"$12,921 ",-58.20%,"$101,296 ","42,319",-88,30,Melbourne,Australia,"Mining, Crude-Oil Production"
+269,HP,"$53,718 ",-14.60%,"$3,263 ",4.20%,"$37,004 ","58,000",-56,30,Palo Alto,United States,"Computers, Office Equipment"
+270,United Airlines Holdings,"$53,717 ",19.50%,"$2,618 ",255.20%,"$71,104 ","103,300",56,27,Chicago,United States,Transportation
+271,Tata Motors,"$53,634.90 ",22.80%,"$3,794 ",1161.90%,"$44,475.60 ","91,496",66,15,Mumbai,India,Motor Vehicles & Parts
+272,Performance Food Group,"$53,354.70 ",13.10%,$397.20 ,253.10%,"$12,499 ","34,825",32,4,Richmond,United States,Wholesalers: Food
+273,Iberdrola,"$53,334.10 ",-6%,"$5,192.30 ",13.80%,"$165,709.10 ","41,448",-27,20,Bilbao,Spain,Utilities
+274,Deutsche Bahn,"$53,197.90 ",-10.20%,"($2,566.40)",-,"$85,566.60 ","326,781",-42,30,Berlin,Germany,Transportation
+275,Idemitsu Kosan,"$53,042.60 ",-13.70%,"$1,581.10 ",-15.60%,"$33,145.70 ","16,571",-54,30,Tokyo,Japan,Petroleum Refining
+276,Tyson Foods,"$52,881 ",-0.80%,($648),-120%,"$36,251 ","139,000",-10,23,Springdale,United States,Food Production
+277,Midea Group,"$52,789.60 ",2.70%,"$4,763.20 ",8.40%,"$68,477.30 ","198,613",1,9,Foshan,China,Household Products
+278,American Airlines Group,"$52,788 ",7.80%,$822 ,547.20%,"$63,058 ","132,100",13,29,Fort Worth,United States,Transportation
+279,China United Network Communications,"$52,632.30 ",-0.30%,"$1,154.50 ",6.40%,"$93,387.40 ","242,891",-12,16,Beijing,China,Telecommunications
+280,Liberty Mutual Insurance Group,"$52,612 ",5.30%,$213 ,-48.60%,"$165,208 ","45,000",4,30,Boston,United States,Insurance: Property and Casualty (Stock)
+281,Bank of Nova Scotia,"$52,535.80 ",44.40%,"$5,495 ",-28.60%,"$1,016,565.10 ","89,483",134,27,Toronto,Canada,Commercial Banks
+282,Volvo,"$52,101.50 ",11.30%,"$4,696.30 ",45.10%,"$66,905.70 ","97,440",25,30,Gothenburg,Sweden,Motor Vehicles & Parts
+283,Intesa Sanpaolo,"$52,004.40 ",33.90%,"$8,350.10 ",82.30%,"$1,064,247.90 ","94,368",100,26,Turin,Italy,Commercial Banks
+284,Saint-Gobain,"$51,830.30 ",-3.80%,"$2,917.80 ",-7.60%,"$63,285.80 ","144,422",-21,30,Courbevoie,France,"Building Materials, Glass"
+285,Shaanxi Yanchang Petroleum (Group),"$51,525.90 ",-1.30%,$997.30 ,14.60%,"$68,398.20 ","130,427",-16,12,Xi'an,China,Petroleum Refining
+286,Bayer,"$51,498.40 ",-3.50%,"($3,179.40)",-172.80%,"$128,406.20 ","99,723",-21,30,Leverkusen,Germany,Pharmaceuticals
+287,Tokio Marine Holdings,"$51,371.90 ",4.60%,"$4,814.40 ",73.10%,"$202,320.30 ","43,870",3,30,Tokyo,Japan,Insurance: Property and Casualty (Stock)
+288,Nike,"$51,217 ",9.70%,"$5,070 ",-16.10%,"$37,531 ","83,700",20,18,Beaverton,United States,Apparel
+289,Maersk Group,"$51,065 ",-37.40%,"$3,822 ",-86.90%,"$82,100 ","105,909",-138,21,Copenhagen,Denmark,Transportation
+290,Phoenix Pharma,"$50,934.90 ",33.90%,$234.60 ,-6.90%,"$15,538 ","41,276",98,14,Mannheim,Germany,Wholesalers: Health Care
+291,Greenland Holding Group,"$50,897 ",-21.50%,"($1,349.90)",-999%,"$168,210.20 ","59,970",-86,13,Shanghai,China,Real Estate
+292,Shanghai Pudong Development Bank,"$50,864.50 ",-5.90%,"$5,184.50 ",-31.90%,"$1,269,019.60 ","63,582",-32,12,Shanghai,China,Commercial Banks
+293,Louis Dreyfus,"$50,624 ",-15.50%,"$1,013 ",0.70%,"$22,076 ","17,017",-65,11,Rotterdam,Netherlands,Food Production
+294,Bank of Montreal,"$50,495 ",45.40%,"$3,237 ",-69.20%,"$931,889.30 ","55,767",139,14,Montreal,Canada,Commercial Banks
+295,ZF Friedrichshafen,"$50,406.60 ",9.40%,($33.50),-114%,"$43,262.70 ","165,938",20,11,Friedrichshafen,Germany,Motor Vehicles & Parts
+296,KB Financial Group,"$50,228.40 ",15.10%,"$3,546.50 ",4.20%,"$552,514.40 ","25,003",43,12,Seoul,South Korea,Commercial Banks
+297,Sanofi,"$50,208.70 ",5.20%,"$5,837.70 ",-33.70%,"$139,677.50 ","86,088",2,20,Paris,France,Pharmaceuticals
+298,Marubeni,"$50,166.90 ",-26.10%,"$3,261.70 ",-18.70%,"$59,010.70 ","53,804",-108,30,Tokyo,Japan,Trading
+299,Oracle,"$49,954 ",17.70%,"$8,503 ",26.60%,"$134,384 ","164,000",53,18,Austin,United States,Computer Software
+300,Jinchuan Group,"$49,900.70 ",0.90%,"$1,359.50 ",22.20%,"$21,777 ","31,025",-11,6,Jinchang,China,"Mining, Crude-Oil Production"
+301,Swiss Re,"$49,800 ",8.30%,"$3,214 ",580.90%,"$179,576 ","14,719",15,30,Zurich,Switzerland,Insurance: Property and Casualty (Stock)
+302,Chubb,"$49,735 ",15.20%,"$9,028 ",69.90%,"$230,682 ","40,000",40,8,Zurich,Switzerland,Insurance: Property and Casualty (Stock)
+303,Enterprise Products Partners,"$49,715 ",-14.60%,"$5,532 ",0.80%,"$70,982 ","7,500",-64,14,Houston,United States,Utilities
+304,Capital One Financial,"$49,484 ",29%,"$4,887 ",-33.60%,"$478,464 ","51,987",82,14,McLean,United States,Commercial Banks
+305,Denso,"$49,435 ",4.50%,"$2,164.20 ",-6.90%,"$60,133.40 ","162,029",-2,30,Kariya,Japan,Motor Vehicles & Parts
+306,HDFC Bank,"$49,299.10 ",93.40%,"$7,740.80 ",35.10%,"$483,578.80 ","213,527",-,1,Mumbai,India,Commercial Banks
+307,China National Building Material Group,"$49,088.80 ",-13.10%,$198.20 ,-68.50%,"$99,339.90 ","206,518",-60,14,Beijing,China,"Building Materials, Glass"
+308,Veolia Environnement,"$49,027.10 ",8.70%,"$1,013 ",34.60%,"$80,148 ","218,288",16,22,Aubervilliers,France,Utilities
+309,China State Shipbuilding,"$48,890.10 ",-5.60%,"$2,408.40 ",-11.10%,"$143,707.90 ","196,309",-37,4,Beijing,China,Aerospace & Defense
+310,Vodafone Group,"$48,871.90 ",2.80%,"$1,236.20 ",-90%,"$155,751 ","96,282",-8,25,Newbury,United Kingdom,Telecommunications
+311,Plains GP Holdings,"$48,712 ",-15.10%,$198 ,17.90%,"$28,597 ","4,200",-68,9,Houston,United States,Utilities
+312,Landesbank Baden-Wurttemberg,"$48,566.60 ",137.80%,"$1,080 ",-32.30%,"$368,130.10 ","10,434",-,17,Stuttgart,Germany,Commercial Banks
+313,EXOR Group,"$48,368.80 ",5.20%,"$4,534 ",2%,"$104,681.90 ","83,773",4,14,Turin,Italy,Diversified Financials
+314,Jingye Group,"$48,120 ",5.30%,$248.90 ,-24.40%,"$13,369.90 ","33,000",6,4,Shijiazhuang,China,Materials
+315,UniCredit Group,"$48,044.40 ",68.40%,"$10,277.60 ",51.30%,"$866,991.40 ","70,752",-,27,Milan,Italy,Commercial Banks
+316,Energie Baden-Wurttemberg,"$48,032.20 ",-18.50%,"$1,662.20 ",-9.10%,"$71,481 ","26,943",-79,14,Karlsruhe,Germany,Utilities
+317,Tokyo Electric Power,"$47,868.90 ",-16.90%,"$1,853.30 ",-,"$96,518.20 ","38,183",-75,30,Tokyo,Japan,Utilities
+318,Sumitomo,"$47,812.90 ",-5.10%,"$2,673.20 ",-36%,"$72,957.20 ","79,692",-36,30,Tokyo,Japan,Trading
+319,World Kinect,"$47,710.60 ",-19.20%,$52.90 ,-53.60%,"$7,375.30 ","5,289",-85,12,Miami,United States,Wholesalers: Diversified
+320,Orange,"$47,698.50 ",4.30%,"$2,637.80 ",16.90%,"$121,550.70 ","127,109",-1,30,Paris,France,Telecommunications
+321,HD Hyundai,"$46,959 ",-0.40%,$202.50 ,-81.40%,"$52,479.40 ","34,097",-16,2,Ulsan,South Korea,Shipbuilding
+322,Ingka Group,"$46,938 ",1.70%,"$1,596.70 ",406.90%,"$61,283.20 ","165,353",-8,4,Leiden,Netherlands,Specialty Retailers: Other
+323,ANZ Group Holdings,"$46,827.70 ",133.60%,"$4,724 ",-6.80%,"$712,705.50 ","40,342",-,17,Melbourne,Australia,Commercial Banks
+324,AIG,"$46,802 ",-17.10%,"$3,643 ",-64.60%,"$539,306 ","25,200",-76,29,New York,United States,Insurance: Property and Casualty (Stock)
+325,SoftBank Group,"$46,748.80 ",-3.70%,"($1,575.10)",-,"$308,981.90 ","65,352",-30,17,Tokyo,Japan,Internet Services and Retailing
+326,Sinomach,"$46,482.20 ",-9.10%,$181.60 ,-,"$45,848.20 ","117,357",-47,14,Beijing,China,Construction and Farm Machinery
+327,Talanx,"$46,155.80 ",-17.60%,"$1,709.20 ",38.70%,"$187,041.10 ","27,863",-78,11,Hanover,Germany,Insurance: Property and Casualty (Stock)
+328,America Movil,"$46,010.90 ",7.70%,"$4,291.50 ",13.30%,"$92,397.40 ","176,083",21,18,Mexico City,Mexico,Telecommunications
+329,AstraZeneca,"$45,811 ",3.30%,"$5,955 ",81.10%,"$101,119 ","89,900",2,23,Cambridge,United Kingdom,Pharmaceuticals
+330,Zhejiang Communications Investment Group,"$45,772 ",-1.80%,$763.60 ,-11.10%,"$131,772.90 ","43,266",-20,4,Hangzhou,China,Engineering & Construction
+331,China Pacific Insurance (Group),"$45,759.90 ",-32.40%,"$3,850.30 ",5.30%,"$330,237.80 ","98,732",-139,14,Shanghai,China,Life and Health Insurance
+332,Coca-Cola,"$45,754 ",6.40%,"$10,714 ",12.30%,"$97,703 ","79,100",12,30,Atlanta,United States,"Food, Beverages & Tobacco"
+333,TIAA,"$45,734.80 ",11.80%,"($1,408.90)",-385.40%,"$629,369.90 ","16,023",33,27,New York,United States,Life and Health Insurance
+334,Caixa Economica Federal,"$45,706.80 ",23.30%,"$2,349.70 ",24.10%,"$377,307.80 ","86,962",72,4,Brasília,Brazil,Commercial Banks
+335,CHS,"$45,590 ",-4.60%,"$1,900.40 ",13.20%,"$18,957.40 ","10,609",-37,17,Inver Grove Heights,United States,Food Production
+336,China Huadian,"$45,534.10 ",0.90%,"$1,909.50 ",87%,"$154,660.90 ","93,459",-13,13,Beijing,China,Utilities
+337,Credit Mutuel Group,"$45,489.90 ",59.10%,"$4,261.50 ",21.70%,"$1,008,979.50 ","77,283",-,1,Strasbourg,France,Commercial Banks
+338,MS&AD Insurance Group Holdings,"$45,478.40 ",17.20%,"$2,555 ",114.10%,"$178,284.70 ","38,391",46,26,Tokyo,Japan,Insurance: Property and Casualty (Stock)
+339,Hyundai Mobis,"$45,368.70 ",12.80%,"$2,620.60 ",36.10%,"$45,225.40 ","46,183",33,13,Seoul,South Korea,Motor Vehicles & Parts
+340,Susun Construction Group,"$45,265.40 ",-1.90%,"$1,142 ",-15.90%,"$33,330.90 ","141,256",-27,3,Nanjing,China,Engineering & Construction
+341,SNCF Group,"$45,145 ",3.60%,"$1,416.20 ",-44.50%,"$143,864.60 ","282,786",-1,30,Saint-Denis,France,Transportation
+342,Bristol-Myers Squibb,"$45,006 ",-2.50%,"$8,025 ",26.80%,"$95,159 ","34,100",-30,21,New York,United States,Pharmaceuticals
+343,China South Industries Group,"$44,790.20 ",3.10%,"$1,136.80 ",12.10%,"$65,364.60 ","159,837",-2,15,Beijing,China,Motor Vehicles & Parts
+344,Continental,"$44,778 ",8%,"$1,250.10 ",1684.70%,"$41,697.40 ","202,763",18,22,Hanover,Germany,Motor Vehicles & Parts
+345,Raizen,"$44,694.10 ",-6.30%,$105.60 ,-77.70%,"$25,558.50 ","45,417",-44,3,São Paulo,Brazil,Petroleum Refining
+346,Dow,"$44,622 ",-21.60%,$589 ,-87.20%,"$57,967 ","35,900",-101,5,Midland,United States,Chemicals
+347,George Weston,"$44,559.60 ",1.70%,"$1,141.30 ",-18.20%,"$37,750.30 ","220,280",-11,30,Toronto,Canada,Food & Drug Stores
+348,L'Oreal,"$44,520.70 ",10.60%,"$6,685.30 ",11.40%,"$57,273.10 ","94,605",22,30,Clichy,France,Household Products
+349,Fomento Economico Mexicano,"$44,167.90 ",31.90%,"$3,703.90 ",211.50%,"$47,602.40 ","392,932",105,5,Monterrey,Mexico,"Food, Beverages & Tobacco"
+350,Telefonica,"$43,947.20 ",4.50%,($964.30),-145.60%,"$115,224.20 ","104,142",5,30,Madrid,Spain,Telecommunications
+351,China Minsheng Banking,"$43,553.60 ",-2.30%,"$5,060.30 ",-3.50%,"$1,081,316 ","63,742",-22,12,Beijing,China,Commercial Banks
+352,Best Buy,"$43,452 ",-6.20%,"$1,241 ",-12.50%,"$14,967 ","85,000",-41,26,Richfield,United States,Specialty Retailers: Other
+353,Woolworths Group,"$43,256.80 ",-2%,"$1,088.60 ",-81.10%,"$22,412.90 ","200,364",-18,28,Sydney,Australia,Food & Drug Stores
+354,Shanghai Construction Group,"$43,031.10 ",1.20%,$220.10 ,9.20%,"$53,830.40 ","51,272",-3,5,Shanghai,China,Engineering & Construction
+355,LG Chem,"$42,921.60 ",6.70%,"$1,024.30 ",-28.40%,"$59,800.50 ","40,000",16,5,Seoul,South Korea,Chemicals
+356,Thermo Fisher Scientific,"$42,857 ",-4.60%,"$5,995 ",-13.70%,"$98,726 ","122,000",-28,5,Waltham,United States,Medical Products
+357,Magna International,"$42,797 ",13.10%,"$1,213 ",104.90%,"$32,255 ","166,000",37,24,Aurora,Canada,Motor Vehicles & Parts
+358,OMV Group,"$42,661.80 ",-34.90%,"$1,677.80 ",-56.90%,"$55,956.50 ","20,592",-155,16,Vienna,Austria,Petroleum Refining
+359,Massachusetts Mutual Life Insurance,"$42,641.40 ",5.90%,($771.60),-152%,"$397,895 ","11,323",10,27,Springfield,United States,Life and Health Insurance
+360,USAA,"$42,493.40 ",17.10%,"$1,213.50 ",-,"$211,637.60 ","37,376",57,11,San Antonio,United States,Insurance: Property and Casualty (Mutual)
+361,Guangzhou Municipal Construction Group,"$42,403.20 ",8%,$152 ,1.60%,"$29,896.70 ","50,608",19,4,Guangzhou,China,Engineering & Construction
+362,General Dynamics,"$42,272 ",7.30%,"$3,315 ",-2.20%,"$54,810 ","111,600",17,24,Reston,United States,Aerospace & Defense
+363,Vale,"$41,784 ",-5.70%,"$7,983 ",-57.50%,"$94,186 ","66,807",-31,18,Rio de Janeiro,Brazil,"Mining, Crude-Oil Production"
+364,Zijin Mining Group,"$41,445.60 ",3.10%,"$2,983.30 ",0.10%,"$48,325.60 ","55,239",9,4,Longyan,China,"Mining, Crude-Oil Production"
+365,Travelers,"$41,364 ",12.20%,"$2,991 ",5.20%,"$125,978 ","33,133",44,21,New York,United States,Insurance: Property and Casualty (Stock)
+366,Warner Bros. Discovery,"$41,321 ",22.20%,"($3,126)",-,"$122,757 ","35,300",83,2,New York,United States,Media
+367,Canadian Imperial Bank of Commerce,"$41,169.80 ",69%,"$3,704.20 ",-23.30%,"$703,068.90 ","48,074",-,15,Toronto,Canada,Commercial Banks
+368,LyondellBasell Industries,"$41,107 ",-18.50%,"$2,114 ",-45.50%,"$37,000 ","20,000",-87,17,Houston,United States,Chemicals
+369,J. Sainsbury,"$41,088.40 ",8.40%,$172.10 ,-30.90%,"$31,666.70 ","100,000",21,30,London,United Kingdom,Food & Drug Stores
+370,Shenzhen Investment Holdings,"$41,025.20 ",8.30%,"$1,412.50 ",55.80%,"$162,424.90 ","103,928",21,5,Shenzhen,China,Diversified Financials
+371,Ansteel Group,"$40,684.60 ",-18.70%,($83.10),-113.70%,"$68,003.30 ","149,765",-88,11,Anshan,China,Materials
+372,Hanwha,"$40,683.20 ",-15.70%,$291.30 ,-71.30%,"$161,907.50 ","69,345",-76,19,Seoul,South Korea,Diversified
+373,U.S. Bancorp,"$40,624 ",48.30%,"$5,429 ",-6.80%,"$663,491 ","75,465",-,17,Minneapolis,United States,Commercial Banks
+374,Lufthansa Group,"$40,455.40 ",17.40%,"$1,808.60 ",117.40%,"$50,056.30 ","79,759",65,28,Cologne,Germany,Transportation
+375,Pegatron,"$40,356.80 ",-8.80%,$504.60 ,-0.50%,"$18,176.40 ","147,360",-42,12,Taipei,Taiwan,"Electronics, Electrical Equipment"
+376,Abbott Laboratories,"$40,109 ",-8.10%,"$5,723 ",-17.50%,"$73,214 ","114,000",-38,26,Abbott Park,United States,Medical Products
+377,ThyssenKrupp,"$40,027.90 ",-10.10%,"($2,209.60)",-279.80%,"$35,228.60 ","99,981",-47,30,Essen,Germany,Materials
+378,New Hope Holding Group,"$39,988 ",-3.50%,($93),-1298.80%,"$41,771.30 ","79,066",-15,4,Chengdu,China,Food Production
+379,KDDI,"$39,812.70 ",-5%,"$4,413.50 ",-11.80%,"$93,546.20 ","61,288",-22,27,Tokyo,Japan,Telecommunications
+380,China National Nuclear,"$39,632.90 ",1.50%,"$1,297.40 ",1.30%,"$188,569.40 ","182,750",1,5,Beijing,China,Utilities
+381,Taikang Insurance Group,"$39,411.60 ",13.10%,"$1,786.10 ",10.60%,"$235,068.50 ","55,408",50,7,Beijing,China,Life and Health Insurance
+382,Northrop Grumman,"$39,290 ",7.30%,"$2,056 ",-58%,"$46,544 ","101,000",31,25,Falls Church,United States,Aerospace & Defense
+383,Jiangsu Shagang Group,"$39,241.30 ",-8.30%,$227.70 ,-59.20%,"$51,667.90 ","44,004",-35,16,Zhangjiagang,China,Materials
+384,Meituan,"$39,092.50 ",19.60%,"$1,957.30 ",-,"$41,284.60 ","114,860",83,2,Beijing,China,Internet Services and Retailing
+385,Chery Holding Group,"$39,091.70 ",75.30%,$585.70 ,83.30%,"$37,346.70 ","56,584",-,1,Wuhu,China,Motor Vehicles & Parts
+386,Inditex,"$38,903 ",14%,"$5,823.50 ",34.60%,"$35,554.50 ","114,510",58,8,Arteixo,Spain,Apparel
+387,Schneider Electric,"$38,812.20 ",8%,"$4,327.50 ",18.30%,"$65,053 ","168,044",34,23,Rueil-Malmaison,France,"Electronics, Electrical Equipment"
+388,Northwestern Mutual,"$38,788.10 ",5.10%,$711.40 ,-22%,"$358,828.60 ","8,239",20,30,Milwaukee,United States,Life and Health Insurance
+389,Dollar General,"$38,691.60 ",2.20%,"$1,661.30 ",-31.20%,"$30,795.60 ","185,800",4,7,Goodlettsville,United States,Specialty Retailers: Other
+390,Cenovus Energy,"$38,689.80 ",-24.70%,"$3,045.30 ",-38.60%,"$40,894.30 ","6,925",-113,3,Calgary,Canada,Petroleum Refining
+391,ACS,"$38,634.60 ",9.30%,$843.40 ,20%,"$40,311.80 ","122,979",37,20,Madrid,Spain,Engineering & Construction
+392,Coop Group,"$38,582.70 ",7.70%,$640 ,8.70%,"$26,139.30 ","82,983",43,15,Basel,Switzerland,Food & Drug Stores
+393,Fairfax Financial Holdings,"$38,417.20 ",37%,"$4,381.80 ",282%,"$91,985.10 ","51,044",-,1,Toronto,Canada,Insurance: Property and Casualty (Stock)
+394,Guangzhou Industrial Investment Holdings,"$38,345.20 ",4.80%,$150.70 ,-35.60%,"$48,958.40 ","88,440",20,2,Guangzhou,China,Diversified Financials
+395,PBF Energy,"$38,324.80 ",-18.20%,"$2,140.50 ",-25.60%,"$14,387.80 ","3,776",-89,3,Parsippany,United States,Petroleum Refining
+396,Standard Chartered,"$38,292 ",54.20%,"$3,469 ",17.70%,"$822,844 ","84,958",-,10,London,United Kingdom,Commercial Banks
+397,Xiaomi,"$38,276.80 ",-8.10%,"$2,468.50 ",571.20%,"$45,682.80 ","33,627",-37,6,Beijing,China,"Electronics, Electrical Equipment"
+398,Compass Group,"$38,004.70 ",16.70%,"$1,609.50 ",13.30%,"$21,489.60 ","562,460",71,22,Chertsey,United Kingdom,Business Services
+399,Meiji Yasuda Life Insurance,"$37,897.40 ",-5.30%,"$1,062.30 ",67.50%,"$349,493.50 ","47,140",-24,30,Tokyo,Japan,Life and Health Insurance
+400,GSK,"$37,691.80 ",-12.40%,"$6,124.50 ",-66.80%,"$75,203.90 ","70,212",-57,30,Brentford,United Kingdom,Pharmaceuticals
+401,Suncor Energy,"$37,609.30 ",-16.30%,"$6,147.70 ",-11.90%,"$67,156.40 ","14,906",-74,14,Calgary,Canada,Petroleum Refining
+402,Hangzhou Industrial Investment Group,"$37,398 ",42%,$364.10 ,8.20%,"$12,096 ","4,056",-,1,Hangzhou,China,Diversified Financials
+403,Uber Technologies,"$37,281 ",17%,"$1,887 ",-,"$38,699 ","30,400",74,2,San Francisco,United States,Internet Services and Retailing
+404,DZ Bank,"$37,220.90 ",31.70%,"$2,302.70 ",112.40%,"$711,938.40 ","29,901",-,29,Frankfurt,Germany,Commercial Banks
+405,GS Caltex,"$37,216.90 ",-17.90%,$882.60 ,-59.20%,"$18,775.20 ","3,268",-83,12,Seoul,South Korea,Petroleum Refining
+406,Suzuki Motor,"$37,184.90 ",8.40%,"$1,852.40 ",13.40%,"$35,614.50 ","72,372",35,30,Hamamatsu,Japan,Motor Vehicles & Parts
+407,Haier Smart Home,"$36,928.80 ",2%,"$2,344.40 ",7.20%,"$35,698.40 ","112,458",12,7,Qingdao,China,Household Products
+408,X5 Retail Group,"$36,921.90 ",-1.50%,$918.80 ,41.20%,"$17,659.20 ","372,200",-10,5,Moscow,Russia,Food & Drug Stores
+409,La Poste,"$36,834.90 ",-1%,$555.70 ,-56.10%,"$845,509.20 ","232,726",-6,29,Paris,France,Transportation
+410,Hangzhou Iron and Steel Group,"$36,772.30 ",-0.10%,$197.30 ,-19.80%,"$14,862.90 ","11,492",1,3,Hangzhou,China,Materials
+411,Shanghai Pharmaceuticals Holding,"$36,768.80 ",6.60%,$532.30 ,-36.30%,"$29,864.50 ","48,164",27,5,Shanghai,China,Pharmaceuticals
+412,Shandong Hi-Speed Group,"$36,743.80 ",6.60%,$491.60 ,10.50%,"$213,269.40 ","56,432",28,3,Jinan,China,Engineering & Construction
+413,Honeywell International,"$36,662 ",3.40%,"$5,658 ",13.90%,"$61,525 ","95,000",12,30,Charlotte,United States,"Electronics, Electrical Equipment"
+414,Guangdong Guangxin Holdings,"$36,608.90 ",3.50%,$86 ,-75.80%,"$17,393.80 ","44,837",13,2,Guangzhou,China,Diversified
+415,S.F. Holding,"$36,502.40 ",-8.20%,"$1,163.20 ",26.70%,"$31,205.50 ","153,125",-38,3,Shenzhen,China,Transportation
+416,Mitsubishi Electric,"$36,379.90 ",-1.60%,"$1,971.60 ",24.80%,"$40,783.90 ","149,134",-9,30,Tokyo,Japan,"Electronics, Electrical Equipment"
+417,Guangzhou Pharmaceutical Holdings,"$36,309.80 ",2.60%,$324 ,4.10%,"$11,794.50 ","35,391",9,4,Guangzhou,China,Pharmaceuticals
+418,China Datang,"$36,266.40 ",-3.60%,$332.90 ,83.20%,"$122,382.10 ","87,991",-22,15,Beijing,China,Utilities
+419,Mapfre Group,"$36,097.70 ",45.70%,$732.10 ,8.40%,"$60,688.20 ","30,873",-,15,Majadahonda,Spain,Insurance: Property and Casualty (Stock)
+420,CFE,"$36,077.60 ",16.80%,"$5,481.60 ",-,"$137,339.70 ","92,054",-,14,Mexico City,Mexico,Utilities
+421,Jardine Matheson,"$36,049 ",-4.40%,$686 ,93.80%,"$89,182 ","443,000",-26,25,Hong Kong,China,Diversified
+422,Mondelez International,"$36,016 ",14.40%,"$4,959 ",82.50%,"$71,391 ","91,000",65,17,Chicago,United States,"Food, Beverages & Tobacco"
+423,Daiwa House Industry,"$35,999.40 ",-0.70%,"$2,067.10 ",-9.30%,"$43,206.70 ","48,483",-5,20,Osaka,Japan,Engineering & Construction
+424,Starbucks,"$35,975.60 ",11.60%,"$4,124.50 ",25.70%,"$29,445.50 ","381,000",49,4,Seattle,United States,Food Services
+425,Olam Group,"$35,952.80 ",-9.80%,$207.60 ,-54.50%,"$25,287.10 ","65,980",-49,4,Singapore,Singapore,Food Production
+426,Qualcomm,"$35,820 ",-19%,"$7,232 ",-44.10%,"$51,040 ","50,000",-92,7,San Diego,United States,Semiconductors and Other Electronic Components
+427,Broadcom,"$35,819 ",7.90%,"$14,082 ",22.50%,"$72,861 ","20,000",35,2,San Jose,United States,Semiconductors and Other Electronic Components
+428,JFE Holdings,"$35,803.70 ",-8%,"$1,366 ",13.70%,"$38,056.90 ","62,218",-46,22,Tokyo,Japan,Materials
+429,Hailiang Group,"$35,701.80 ",15.80%,$32.20 ,-35.80%,"$10,308.30 ","26,727",-,5,Zhuji,China,Metals
+430,US Foods Holding,"$35,597 ",4.50%,$506 ,90.90%,"$13,187 ","30,000",16,7,Rosemont,United States,Wholesalers: Food
+431,ELO Group,"$35,569 ",-0.60%,($409.70),-1280.50%,"$22,955.60 ","145,025",-8,28,Dortmund,Germany,Food & Drug Stores
+432,Migros Group,"$35,563.10 ",12.60%,$205.90 ,-58.10%,"$95,605.60 ","72,523",53,30,Zurich,Switzerland,Food & Drug Stores
+433,Mercadona,"$35,525.40 ",18.70%,"$1,090.70 ",44.40%,"$14,942.70 ","98,700",-,2,Valencia,Spain,Food & Drug Stores
+434,D.R. Horton,"$35,460.40 ",5.90%,"$4,745.70 ",-19%,"$32,582.40 ","13,450",21,4,Arlington,United States,Engineering & Construction
+435,China Electronics,"$35,390.90 ",-12.20%,$26.80 ,-,"$61,089.30 ","183,469",-67,14,Beijing,China,"Electronics, Electrical Equipment"
+436,Shudao Investment Group,"$35,379.30 ",-6.90%,$685.90 ,6.20%,"$188,446.20 ","55,878",-47,3,Chengdu,China,Engineering & Construction
+437,China National Coal Group,"$35,364 ",-15.80%,"$2,154.20 ",14.80%,"$73,994.90 ","144,531",-81,5,Beijing,China,"Mining, Crude-Oil Production"
+438,TongLing Nonferrous Metals Group,"$35,244.50 ",1.90%,$59.70 ,1093.60%,"$14,236.40 ","21,443",-2,6,Tongling,China,"Mining, Crude-Oil Production"
+439,CK Hutchison Holdings,"$35,199.80 ",5%,"$3,001.70 ",-35.90%,"$148,415.60 ","300,000",14,9,Hong Kong,China,Diversified
+440,Philip Morris International,"$35,174 ",10.70%,"$7,813 ",-13.70%,"$65,304 ","82,700",40,16,Stamford,United States,"Food, Beverages & Tobacco"
+441,Paccar,"$35,127.40 ",21.90%,"$4,600.80 ",52.80%,"$40,823.40 ","32,400",-,4,Bellevue,United States,Motor Vehicles & Parts
+442,PDD Holdings,"$34,981.10 ",80.20%,"$8,479.20 ",80.90%,"$49,040.30 ","17,403",-,1,Dublin,Ireland,Internet Services and Retailing
+443,CRH,"$34,949 ",4.70%,"$3,178 ",-17.70%,"$47,469 ","78,500",16,21,Dublin,Ireland,"Building Materials, Glass"
+444,Quanta Computer,"$34,860.20 ",-18.90%,"$1,274.10 ",31%,"$22,517.60 ","56,708",-99,19,Taoyuan,Taiwan,"Electronics, Electrical Equipment"
+445,Salesforce,"$34,857 ",11.20%,"$4,136 ",1888.50%,"$99,823 ","72,682",46,2,San Francisco,United States,Computer Software
+446,AIA Group,"$34,851 ",82.40%,"$3,764 ",1234.80%,"$286,319 ","27,320",-,9,Hong Kong,China,Life and Health Insurance
+447,Nucor,"$34,713.50 ",-16.40%,"$4,524.80 ",-40.50%,"$35,340.50 ","32,000",-86,5,Charlotte,United States,Materials
+448,Jabil,"$34,702 ",3.70%,$818 ,-17.90%,"$19,424 ","236,000",8,4,St. Petersburg,United States,"Electronics, Electrical Equipment"
+449,National Australia Bank,"$34,549.90 ",85.90%,"$4,934.30 ",0.60%,"$682,706.80 ","38,516",-,25,Melbourne,Australia,Commercial Banks
+450,SAP,"$34,542 ",6.40%,"$6,636.60 ",176.30%,"$75,474.90 ","107,602",22,9,Walldorf,Germany,Computer Software
+451,CRRC Group,"$34,519.70 ",-0.50%,$861.50 ,-4.50%,"$76,601.70 ","165,344",-17,6,Beijing,China,Motor Vehicles & Parts
+452,Shanghai Delong Steel Group,"$34,399.50 ",2.60%,$223.30 ,-11.90%,"$21,814.50 ","42,843",-1,3,Shanghai,China,Materials
+453,Lennar,"$34,233.40 ",1.70%,"$3,938.50 ",-14.60%,"$39,234.30 ","12,284",-3,4,Miami,United States,Engineering & Construction
+454,Sompo Holdings,"$34,136.30 ",0.30%,"$2,878.70 ",327.50%,"$98,087.40 ","48,421",-7,28,Tokyo,Japan,Insurance: Property and Casualty (Stock)
+455,Eli Lilly,"$34,124.10 ",19.60%,"$5,240.40 ",-16.10%,"$64,006.30 ","43,000",-,16,Indianapolis,United States,Pharmaceuticals
+456,Korea Gas,"$34,114.80 ",-14.90%,($582.80),-150.40%,"$44,197.80 ","4,163",-82,9,Daegu,South Korea,Utilities
+457,Molina Healthcare,"$34,072 ",6.60%,"$1,091 ",37.80%,"$14,892 ","18,000",18,2,Long Beach,United States,Health Care: Insurance and Managed Care
+458,Beijing Jianlong Heavy Industry Group,"$34,069.60 ",3.60%,$138.90 ,-39.40%,"$26,732.80 ","57,863",7,4,Beijing,China,Materials
+459,Cummins,"$34,065 ",21.30%,$735 ,-65.80%,"$32,005 ","75,500",-,1,Columbus,United States,Motor Vehicles & Parts
+460,Shaanxi Construction Engineering Holding,"$34,060.90 ",-1.90%,$352.70 ,-9.80%,"$61,076 ","41,390",-28,2,Xi'an,China,Engineering & Construction
+461,Rabobank Group,"$34,042.60 ",53.80%,"$4,634.50 ",89.40%,"$677,928 ","49,132",-,26,Utrecht,Netherlands,Commercial Banks
+462,Aisin,"$33,969.60 ",4.40%,$628.30 ,125.80%,"$30,703.70 ","115,140",8,23,Kariya,Japan,Motor Vehicles & Parts
+463,Rajesh Exports,"$33,944.10 ",-19.80%,$40.50 ,-77.30%,"$2,648.40 ",141,-110,9,Bengaluru,India,Specialty Retailers: Other
+464,British American Tobacco,"$33,907.40 ",-0.60%,"($17,855.40)",-317.30%,"$151,307.70 ","49,839",-19,27,London,United Kingdom,"Food, Beverages & Tobacco"
+465,CPC,"$33,903.70 ",-14%,($656.70),-,"$34,350.30 ","17,142",-87,23,Taipei,Taiwan,Petroleum Refining
+466,Bank of New York Mellon,"$33,805 ",69.10%,"$3,286 ",27.70%,"$409,953 ","53,400",-,1,New York,United States,Commercial Banks
+467,Tongwei Group,"$33,731.30 ",5.60%,$593.90 ,-63.70%,"$25,094 ","58,329",9,2,Chengdu,China,"Mining, Crude-Oil Production"
+468,Netflix,"$33,723.30 ",6.70%,"$5,408 ",20.40%,"$48,732 ","13,000",16,4,Los Gatos,United States,Media
+469,Novo Nordisk,"$33,703.80 ",34.70%,"$12,143.40 ",54.70%,"$46,607.10 ","63,845",-,1,Bagsværd,Denmark,Pharmaceuticals
+470,Shougang Group,"$33,621.30 ",-8.80%,$343.80 ,82.10%,"$74,249.40 ","83,509",-60,13,Beijing,China,Materials
+471,Shanxi Coking Coal Group,"$33,533.20 ",-19.50%,"$1,252.50 ",252.60%,"$73,316.40 ","214,937",-112,11,Taiyuan,China,"Mining, Crude-Oil Production"
+472,Guangxi Investment Group,"$33,428.10 ",6.90%,$68.10 ,-18.90%,"$113,540.50 ","32,241",23,5,Nanning,China,Diversified
+473,VTB Bank,"$33,420.20 ",73.10%,"$4,936.40 ",-,"$327,759.90 ","76,100",-,4,Moscow,Russia,Commercial Banks
+474,Mazda Motor,"$33,403 ",18.20%,"$1,437.10 ",36.20%,"$25,074.50 ","48,685",-,28,Fuchu,Japan,Motor Vehicles & Parts
+475,Hunan Iron & Steel Group,"$33,344.80 ",1.90%,$834 ,-29.10%,"$24,473.10 ","36,114",-9,3,Changsha,China,Materials
+476,Power Corp. of Canada,"$33,264.80 ",-11.10%,"$1,665.30 ",10.30%,"$568,475.40 ","40,300",-77,26,Montreal,Canada,Life and Health Insurance
+477,Truist Financial,"$33,246 ",31.10%,"($1,091)",-117.40%,"$535,349 ","49,935",-,2,Charlotte,United States,Commercial Banks
+478,Siemens Energy,"$33,184.90 ",5.80%,"($4,832.90)",-,"$50,695.20 ","94,000",12,4,Munich,Germany,Utilities
+479,Schlumberger,"$33,135 ",18%,"$4,203 ",22.10%,"$47,957 ","111,000",-,21,Houston,United States,"Mining, Crude-Oil Production"
+480,Ecopetrol,"$33,126.50 ",-11.80%,"$4,872.40 ",-34.50%,"$72,404.20 ","19,657",-83,7,Bogotá,Colombia,"Mining, Crude-Oil Production"
+481,Arrow Electronics,"$33,107.10 ",-10.80%,$903.50 ,-36.70%,"$21,726.20 ","22,100",-77,11,Centennial,United States,Wholesalers: Electronics and Office Equipment
+482,Jeronimo Martins,"$33,089.10 ",23.90%,$817.30 ,31.70%,"$15,790.80 ","134,379",-,1,Lisbon,Portugal,Food & Drug Stores
+483,China National Aviation Fuel Group,"$32,984.20 ",4.20%,$98.80 ,-75.90%,"$10,700 ","13,694",-,13,Beijing,China,Petroleum Refining
+484,Commonwealth Bank of Australia,"$32,980.50 ",50.20%,"$6,788.50 ",-13.10%,"$834,520.10 ","49,454",-,18,Sydney,Australia,Commercial Banks
+485,Centrica,"$32,882.10 ",12.30%,"$4,883 ",-,"$27,231.70 ","21,014",-,25,Windsor,United Kingdom,Utilities
+486,Linde,"$32,854 ",-1.50%,"$6,199 ",49.50%,"$80,811 ","66,323",-26,5,Guildford,United Kingdom,Chemicals
+487,Heineken,"$32,823.10 ",8.70%,"$1,269.20 ",-10.20%,"$60,479.40 ","89,732",-,15,Amsterdam,Netherlands,"Food, Beverages & Tobacco"
+488,Luxshare Precision Industry,"$32,758.50 ",3%,"$1,547.20 ",13.60%,"$22,822.90 ","232,585",-9,2,Dongguan,China,"Electronics, Electrical Equipment"
+489,3M,"$32,681 ",-4.50%,"($6,995)",-221.10%,"$50,580 ","85,000",-46,30,St. Paul,United States,Industrial and Farm Equipment
+490,Visa,"$32,653 ",11.40%,"$17,273 ",15.50%,"$90,499 ","28,800",-,1,San Francisco,United States,Diversified Financials
+491,Apollo Global Management,"$32,644 ",180.80%,"$5,047 ",-,"$313,488 ","6,855",-,1,New York,United States,Financials
+492,Emirates Group,"$32,637.90 ",12.20%,"$4,692.10 ",62.70%,"$44,635.30 ","112,406",-,5,Dubai,United Arab Emirates,Transportation
+493,Vibra Energia,"$32,634.10 ",-7.20%,$954.50 ,220.50%,"$8,961.30 ","3,526",-64,2,Rio de Janeiro,Brazil,Petroleum Refining
+494,Metro,"$32,579.20 ",1.20%,$468.10 ,-,"$12,325.90 ","81,834",-20,7,Düsseldorf,Germany,Food & Drug Stores
+495,Subaru,"$32,540.10 ",16.70%,"$2,664.40 ",79.90%,"$31,835.40 ","37,693",-,20,Tokyo,Japan,Motor Vehicles & Parts
+496,Air France-KLM Group,"$32,452.30 ",16.90%,"$1,009.70 ",31.90%,"$38,093.70 ","76,271",-,25,Paris,France,Transportation
+497,Enbridge,"$32,349.50 ",-21%,"$4,588.30 ",98.80%,"$136,769.60 ","12,450",-132,11,Calgary,Canada,Utilities
+498,ABB,"$32,235 ",9.50%,"$3,745 ",51.30%,"$40,940 ","107,900",-,29,Zurich,Switzerland,"Electronics, Electrical Equipment"
+499,Mitsubishi Heavy Industries,"$32,223.20 ",3.80%,"$1,536.20 ",59.40%,"$41,371.90 ","77,697",-,30,Tokyo,Japan,Engineering & Construction
+500,Samsung C&T,"$32,077.90 ",-4.10%,"$1,698.50 ",7.30%,"$51,046.80 ","18,685",-43,8,Seoul,South Korea,Engineering & Construction
