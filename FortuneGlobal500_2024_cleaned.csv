@@ -215,7 +215,7 @@ Rank,Company,RevenueMil,RevenuePerCng,ProfitsMil,ProfitsPerCng,AssetsMil,Employe
 214,Aluminum Corp. of China,63595,-0.17,877,-0.48,86868,124995,-48,17,Beijing,China,Materials
 215,Munich Re Group,63353,-0.16,4979,0.38,302400,42812,-45,30,Munich,Germany,Insurance: Property and Casualty (Stock)
 216,Sberbank,63330,0.13,17744,3.48,583489,210753,34,17,Moscow,Russia,Commercial Banks
-217,Banco do Brasil,63322,0.15,5980,0.12,443906,86220,34,30,Brasília,Brazil,Commercial Banks
+217,Banco do Brasil,63322,0.15,5980,0.12,443906,86220,34,30,Brasilia,Brazil,Commercial Banks
 218,The Progressive Corporation,62109,0.25,3902,4.41,88691,61432,69,11,Mayfield Village,United States,Insurance: Property and Casualty (Stock)
 219,IBM,61860,0.02,7502,3.58,135241,296600,5,30,Armonk,United States,Information Technology Services
 220,Nippon Steel Corporation,61359,0.04,3801,-0.26,70855,121236,16,30,Tokyo,Japan,Materials
@@ -332,7 +332,7 @@ Rank,Company,RevenueMil,RevenuePerCng,ProfitsMil,ProfitsPerCng,AssetsMil,Employe
 331,China Pacific Insurance (Group),45760,-0.32,3850,0.05,330238,98732,-139,14,Shanghai,China,Life and Health Insurance
 332,Coca-Cola,45754,0.06,10714,0.12,97703,79100,12,30,Atlanta,United States,"Food, Beverages & Tobacco"
 333,TIAA,45735,0.12,-1409,-3.85,629370,16023,33,27,New York,United States,Life and Health Insurance
-334,Caixa Economica Federal,45707,0.23,2350,0.24,377308,86962,72,4,Brasília,Brazil,Commercial Banks
+334,Caixa Economica Federal,45707,0.23,2350,0.24,377308,86962,72,4,Brasilia,Brazil,Commercial Banks
 335,CHS,45590,-0.05,1900,0.13,18957,10609,-37,17,Inver Grove Heights,United States,Food Production
 336,China Huadian,45534,0.01,1910,0.87,154661,93459,-13,13,Beijing,China,Utilities
 337,Credit Mutuel Group,45490,0.59,4262,0.22,1008980,77283,,1,Strasbourg,France,Commercial Banks
@@ -467,7 +467,7 @@ Rank,Company,RevenueMil,RevenuePerCng,ProfitsMil,ProfitsPerCng,AssetsMil,Employe
 466,Bank of New York Mellon,33805,0.69,3286,0.28,409953,53400,,1,New York,United States,Commercial Banks
 467,Tongwei Group,33731,0.06,594,-0.64,25094,58329,9,2,Chengdu,China,"Mining, Crude-Oil Production"
 468,Netflix,33723,0.07,5408,0.2,48732,13000,16,4,Los Gatos,United States,Media
-469,Novo Nordisk,33704,0.35,12143,0.55,46607,63845,,1,Bagsværd,Denmark,Pharmaceuticals
+469,Novo Nordisk,33704,0.35,12143,0.55,46607,63845,,1,BagsvÃ¦rd,Denmark,Pharmaceuticals
 470,Shougang Group,33621,-0.09,344,0.82,74249,83509,-60,13,Beijing,China,Materials
 471,Shanxi Coking Coal Group,33533,-0.2,1253,2.53,73316,214937,-112,11,Taiyuan,China,"Mining, Crude-Oil Production"
 472,Guangxi Investment Group,33428,0.07,68,-0.19,113541,32241,23,5,Nanning,China,Diversified
@@ -478,7 +478,7 @@ Rank,Company,RevenueMil,RevenuePerCng,ProfitsMil,ProfitsPerCng,AssetsMil,Employe
 477,Truist Financial,33246,0.31,-1091,-1.17,535349,49935,,2,Charlotte,United States,Commercial Banks
 478,Siemens Energy,33185,0.06,-4833,,50695,94000,12,4,Munich,Germany,Utilities
 479,Schlumberger,33135,0.18,4203,0.22,47957,111000,,21,Houston,United States,"Mining, Crude-Oil Production"
-480,Ecopetrol,33127,-0.12,4872,-0.35,72404,19657,-83,7,Bogotá,Colombia,"Mining, Crude-Oil Production"
+480,Ecopetrol,33127,-0.12,4872,-0.35,72404,19657,-83,7,BogotÃ¡,Colombia,"Mining, Crude-Oil Production"
 481,Arrow Electronics,33107,-0.11,904,-0.37,21726,22100,-77,11,Centennial,United States,Wholesalers: Electronics and Office Equipment
 482,Jeronimo Martins,33089,0.24,817,0.32,15791,134379,,1,Lisbon,Portugal,Food & Drug Stores
 483,China National Aviation Fuel Group,32984,0.04,99,-0.76,10700,13694,,13,Beijing,China,Petroleum Refining
@@ -492,7 +492,7 @@ Rank,Company,RevenueMil,RevenuePerCng,ProfitsMil,ProfitsPerCng,AssetsMil,Employe
 491,Apollo Global Management,32644,1.81,5047,,313488,6855,,1,New York,United States,Financials
 492,Emirates Group,32638,0.12,4692,0.63,44635,112406,,5,Dubai,United Arab Emirates,Transportation
 493,Vibra Energia,32634,-0.07,955,2.21,8961,3526,-64,2,Rio de Janeiro,Brazil,Petroleum Refining
-494,Metro,32579,0.01,468,,12326,81834,-20,7,Düsseldorf,Germany,Food & Drug Stores
+494,Metro,32579,0.01,468,,12326,81834,-20,7,DÃ¼sseldorf,Germany,Food & Drug Stores
 495,Subaru,32540,0.17,2664,0.8,31835,37693,,20,Tokyo,Japan,Motor Vehicles & Parts
 496,Air France-KLM Group,32452,0.17,1010,0.32,38094,76271,,25,Paris,France,Transportation
 497,Enbridge,32350,-0.21,4588,0.99,136770,12450,-132,11,Calgary,Canada,Utilities
