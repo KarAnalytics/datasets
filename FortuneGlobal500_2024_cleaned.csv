@@ -187,7 +187,7 @@ Rank,Company,RevenueMil,RevenuePerCng,ProfitsMil,ProfitsPerCng,AssetsMil,Employe
 186,Taiwan Semiconductor Manufacturing,69416,-0.09,27350,-0.18,180508,76478,-18,10,Hsinchu,Taiwan,Semiconductors and Other Electronic Components
 187,XMXYG,69287,-0.17,15,-0.95,46717,33214,-45,7,Xiamen,China,Trading
 188,RTX,68920,0.03,3195,-0.39,161869,185000,7,30,Waltham,United States,Aerospace & Defense
-189,Itau Unibanco Holding,68455,0.2,6630,0.15,524124,95702,18,11,São Paulo,Brazil,Commercial Banks
+189,Itau Unibanco Holding,68455,0.2,6630,0.15,524124,95702,18,11,Sao Paulo,Brazil,Commercial Banks
 190,ArcelorMittal,68275,-0.15,919,-0.9,93917,126756,-35,20,Luxembourg City,Luxembourg,Materials
 191,General Electric,67954,-0.11,9481,41.14,163045,125000,-24,30,Fairfield,United States,Diversified Financials
 192,Beijing Automotive Group,67852,0.01,328,0.11,65757,90000,1,12,Beijing,China,Motor Vehicles & Parts
@@ -343,7 +343,7 @@ Rank,Company,RevenueMil,RevenuePerCng,ProfitsMil,ProfitsPerCng,AssetsMil,Employe
 342,Bristol-Myers Squibb,45006,-0.03,8025,0.27,95159,34100,-30,21,New York,United States,Pharmaceuticals
 343,China South Industries Group,44790,0.03,1137,0.12,65365,159837,-2,15,Beijing,China,Motor Vehicles & Parts
 344,Continental,44778,0.08,1250,16.85,41697,202763,18,22,Hanover,Germany,Motor Vehicles & Parts
-345,Raizen,44694,-0.06,106,-0.78,25559,45417,-44,3,São Paulo,Brazil,Petroleum Refining
+345,Raizen,44694,-0.06,106,-0.78,25559,45417,-44,3,Sao Paulo,Brazil,Petroleum Refining
 346,Dow,44622,-0.22,589,-0.87,57967,35900,-101,5,Midland,United States,Chemicals
 347,George Weston,44560,0.02,1141,-0.18,37750,220280,-11,30,Toronto,Canada,Food & Drug Stores
 348,L'Oreal,44521,0.11,6685,0.11,57273,94605,22,30,Clichy,France,Household Products
